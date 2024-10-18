@@ -1,4 +1,6 @@
-# UWMadison_QE
+# Ph.D. Qualifying Exam
+
+## Department of Mechanical Engineering, Area Exam Information (Rev. Dec 9, 2020)
 
 This repo provides details about the Area Exam portion of the Qualifying Exam. General information about the Exam is available in the ME Graduate Student Handbook.
 
